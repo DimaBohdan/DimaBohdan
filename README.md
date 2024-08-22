@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DimaBohdan
+- 👋 Hi, I’m Dmytro 
 - 👀 I’m interested in Python, SQL, Data Science 
 - 🌱 I’m currently learning Git, Python, SQL
 - 💞️ I’m looking to collaborate on making Python projects
