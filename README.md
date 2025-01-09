@@ -5,15 +5,15 @@
 <h1 align="center">Hi 👋, I'm DimaBohdan</h1>
 <h3 align="center">I'm a FICE student (Kyiv, KPI) who wants to become a backend developer</h3>
 
-- 🔭 I’m currently working on **Matrix Calculator in Python**
+- 🔭 I’m currently working on **BANKING API IN NEST JS**
 
-- 🌱 I’m currently learning **Javascript**, **C**, **Python**
+- 🌱 I’m currently learning **Javascript**, **Typescript** **C**, **Python**
 
 - 👯 I’m looking to collaborate on **Django projects**
 
-- 🤝 I’m looking for help with **asynchronous programming**
+- 🤝 I’m looking for help with **asynchronous programming, refactoring, GoF patterns, AGILE**
 
-- 👨‍💻 All of my projects are available on Github
+- 👨‍💻 Some of my projects are available on Github
 
 - 📫 How to reach me **[@sky_in_your_eyes](https://t.me/sky_in_your_eyes)** <img width="30px" src="https://ouch-cdn2.icons8.com/KDWSUwPNbeZaxOYggiW8VmQJqy7p2cIN_g0lq-Ywo34/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTg1/L2I5MDg2ZjUyLTRi/NWMtNDYyZC1iMTli/LTk5Y2Q0NGZiYjI4/Yi5wbmc.png">
 
