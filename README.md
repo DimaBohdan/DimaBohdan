@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm DimaBohdan</h1>
 <h3 align="center">I'm a FICE student (Kyiv, KPI) who wants to become a backend developer</h3>
 
-- 🔭 I’m currently working on **BANKING API IN NEST JS**
+- 🔭 I’m currently working on **QUESTPLATFORM API IN NEST JS, PROGRAM FOR DRAWING GRAPHS AND IMPLEMENTING GRAPH ALGORITHMS IN .NET AND WPF(C#)**
 
-- 🌱 I’m currently learning **Javascript**, **Typescript** **C**, **Python**
+- 🌱 I’m currently learning **Javascript**, **Typescript** **C#**, **Python**
 
-- 👯 I’m looking to collaborate on **Django projects**
+- 👯 I’m looking to collaborate on **Machine learning and AI integration for web applications**
 
-- 🤝 I’m looking for help with **asynchronous programming, refactoring, GoF patterns, AGILE**
+- 🤝 I’m looking for help with **Data Visualization Platforms, network programming, DeFi, asynchronous programming, refactoring, GoF patterns, machine learning**
 
 - 👨‍💻 Some of my projects are available on Github
 
